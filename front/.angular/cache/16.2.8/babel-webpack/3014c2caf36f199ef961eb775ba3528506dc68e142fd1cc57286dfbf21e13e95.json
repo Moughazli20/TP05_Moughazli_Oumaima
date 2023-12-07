@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const environment = {\n  production: false,\n  backendLoginClient: 'https://tp05-9mfs.onrender.com/api/utilisateur/login',\n  backendCatalogue: 'https://tp05-9mfs.onrender.com/api/catalogue'\n};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}
